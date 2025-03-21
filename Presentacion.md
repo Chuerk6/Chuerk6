@@ -2,6 +2,7 @@
 🛠️ I'm currently working on improving my cybersecurity, SAP, and networking skills  <br>👥 I'm looking to collaborate on security, enterprise architecture, and software development projects  <br>🤝 I'm looking for help with advanced SAP configurations, ISO 27001 implementations, and cloud security  <br>🌱 I'm currently learning more about penetration testing, cloud computing, and business process modeling  <br>💬 Ask me about Java, C#, Python, C++, VBA, PowerQuery, SQL, NoSQL, SAP, networking, and ISO 27001  <br>⚡ Fun fact: I enjoy optimizing processes, both in code and in real life!  <br>
 
 
+
 ## 🛠️ My Skills
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming Languages
