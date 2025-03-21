@@ -21,26 +21,33 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width = 20px>  </picture> Backend Development
+### <picture> <img src="https://img.icons8.com/color/48/000000/server.png" width="20px"> </picture> Backend Development
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/DataBase.gif?raw=true" width = 20px>  </picture> Database Management
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
+
+
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-0F5BB5?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=Microsoft-Excel&logoColor=white)
+
+### <picture> <img src="https://img.icons8.com/fluency/48/000000/database.png" width="20px"> </picture> Database Management
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-0F5BB5?style=flat-square&logo=Microsoft-Excel&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Security.gif?raw=true" width = 20px>  </picture> Cybersecurity & Security Tools
+
+### 🔒 Cybersecurity & Security Tools
 
 ![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-721412?style=flat-square&logo=KaliLinux&logoColor=white)
 ![ISO Norms](https://img.shields.io/badge/ISO_Norms-00599C?style=flat-square&logo=ISO&logoColor=white)
 ![ISMS](https://img.shields.io/badge/ISMS-008080?style=flat-square&logo=Security&logoColor=white)
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Cloud.gif?raw=true" width = 20px>  </picture> Cloud & DevOps
+### ☁  </picture> Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white)
 
